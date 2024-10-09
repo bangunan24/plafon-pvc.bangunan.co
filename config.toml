@@ -109,14 +109,14 @@ paginate = 6
   name = "{Andi|Bayu|Fajar|Hendra|Dian|Rizky|Yoga|Yudi|Ari|Gani}"
   message = "{Saya {sangat puas|senang|terkesan} dengan pemasangan plafon PVC dari plafon-pvc.bangunan.co. Plafon tersebut {sangat sesuai|pas|cocok} dengan desain minimalis yang saya inginkan.|Pemasangan plafon PVC dari plafon-pvc.bangunan.co {sangat rapi|cepat|profesional} dan sesuai dengan konsep desain saya.}"
   response = "{Senang mendengar Anda puas dengan produk dan layanan kami. Terima kasih atas {kepercayaannya|pilihan Anda}!|Kami {berterima kasih|menghargai} atas kepercayaan Anda. Senang mendengar proyek Anda berjalan dengan baik!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"
   name = "{Rina|Siti|Dewi|Lina|Ayu|Fitri|Sari|Diah|Nur|Maya}"
   message = "{Pelayanan plafon-pvc.bangunan.co {sangat memuaskan|luar biasa|terbaik}. Plafon PVC yang saya {pasang|gunakan} di kantor {sangat berkualitas|bermutu tinggi|premium} dan sesuai dengan {harapan saya|ekspektasi saya|standar yang saya butuhkan}.|Saya {sangat puas|terkesan|senang} dengan pelayanan dari plafon-pvc.bangunan.co. Plafon PVC yang saya {beli|gunakan} {sangat berkualitas|bermutu tinggi|premium} dan {sesuai|ideal} dengan harapan saya.}"
   response = "{Terima kasih! Kami senang dapat {membantu|melayani|memenuhi kebutuhan} proyek kantor Anda dengan {plafon PVC terbaik|produk berkualitas}.|Kami sangat menghargai ulasan Anda. Terima kasih telah {memilih|mempercayai|menggunakan} produk kami!}"
-  rating = 4.8
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
