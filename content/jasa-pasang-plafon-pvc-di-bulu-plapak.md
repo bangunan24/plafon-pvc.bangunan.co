@@ -1,6 +1,6 @@
 ---
 title: Jasa Pasang Plafon PVC di Bulu Plapak
-date: '2025-06-01'
+date: '2026-06-01'
 categories:
   - harga
 description: >-
