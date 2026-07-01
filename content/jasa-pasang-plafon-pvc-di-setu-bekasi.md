@@ -1,6 +1,6 @@
 ---
 title: Jasa Pasang Plafon PVC di Setu Bekasi
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - harga
 description: >-
