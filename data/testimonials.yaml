@@ -1,31 +1,34 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Joko
+    name: Rudi
     message: >-
       Plafon PVC dari plafon-pvc.bangunan.co berkualitas tinggi dan sesuai
-      dengan konsep rumah saya.
+      dengan desain rumah saya.
     response: >-
       Kami berterima kasih atas kepercayaan Anda. Senang dapat melayani Anda
       dengan produk terbaik.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Maya
+    name: Lina
     message: >-
-      plafon-pvc.bangunan.co menyediakan dalam melengkapi interior rumah saya.
-      Plafon PVC yang saya beli premium dan pas dengan desain interior saya.
+      plafon-pvc.bangunan.co menyediakan dalam melengkapi desain rumah saya.
+      Plafon PVC yang saya pilih sangat berkualitas dan ideal dengan desain
+      interior saya.
     response: >-
       Kami sangat menghargai ulasan Anda. Bahagia mengetahui bahwa Anda puas
       dengan layanan dan produk kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Faisal
+    name: Ahmad
     message: >-
-      Plafon PVC dari plafon-pvc.bangunan.co indah dan cocok untuk ruangan saya.
-      Proses pemasangan juga sangat cepat dan profesional.
-    response: Terima kasih! Kami fokus untuk menyediakan plafon PVC yang estetis.
+      Saya sangat puas dengan plafon PVC dari plafon-pvc.bangunan.co. Desainnya
+      indah dan pemasangannya profesional.
+    response: >-
+      Kami senang dapat membantu Anda dengan plafon PVC berkualitas. Terima
+      kasih atas ulasannya!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Ari
+    name: Andi
     message: >-
       Pemasangan plafon PVC dari plafon-pvc.bangunan.co profesional dan sesuai
       dengan konsep desain saya.
@@ -34,20 +37,20 @@ testimonials:
       atas kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Maya
+    name: Siti
     message: >-
-      Pelayanan plafon-pvc.bangunan.co luar biasa. Plafon PVC yang saya gunakan
-      di kantor premium dan sesuai dengan harapan saya.
+      Saya senang dengan pelayanan dari plafon-pvc.bangunan.co. Plafon PVC yang
+      saya beli sangat berkualitas dan sesuai dengan harapan saya.
     response: >-
       Terima kasih! Kami senang dapat memenuhi kebutuhan proyek kantor Anda
       dengan plafon PVC terbaik.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Agus
+    name: Dedi
     message: >-
-      Plafon PVC dari plafon-pvc.bangunan.co cocok dengan desain interior rumah
-      saya. Pemasangannya juga profesional dan sangat tepat.
+      Plafon PVC dari plafon-pvc.bangunan.co sangat sesuai dengan desain
+      interior rumah saya. Pemasangannya juga rapi dan sangat teratur.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
-      atas kepercayaannya!
+      Kami bahagia mendengar bahwa Anda puas dengan produk kami. Terima kasih
+      atas ulasannya!
     rating: 5
